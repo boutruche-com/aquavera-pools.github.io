@@ -1,0 +1,9 @@
+{
+  "name": "AQUAV\u00c9RA Pools",
+  "short_name": "AQUAV\u00c9RA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#073b5c",
+  "background_color": "#f7fbfc",
+  "icons": []
+}
