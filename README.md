@@ -38,4 +38,4 @@ Product names, prices, ratings, reviews and technical content may be demonstrati
 
 
 ## V2 Image Fix
-Featured products and product detail pages now use clean, standalone pool-product photography bundled locally. Product photos contain no page text, buttons, ratings, or unrelated UI.
+The featured catalog and product detail pages use dedicated standalone pool-product photography bundled locally, with no embedded page text, contact banners, buttons, or unrelated UI inside product images.
