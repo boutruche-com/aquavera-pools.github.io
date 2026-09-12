@@ -35,3 +35,7 @@ Settings → Pages → Deploy from a branch → main → / (root)
 
 ## Notes
 Product names, prices, ratings, reviews and technical content may be demonstration data. Verify actual specifications, compatibility, safety information, shipping, returns and manufacturer guidance before commercial publication.
+
+
+## V2 Image Fix
+Featured products and product detail pages now use clean, standalone pool-product photography bundled locally. Product photos contain no page text, buttons, ratings, or unrelated UI.
